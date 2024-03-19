@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  💼 Bibliotecas: **Pandas | Marplotlib | Seaborn**
+  books Bibliotecas: **Pandas | Marplotlib | Seaborn**
 </p>
 
 
